@@ -21,7 +21,7 @@ header{
     height:180px ;
     
     background-color: red;
-   background-image: url("/images/profile2.jpg"); /* Why dose'nt this work???? */
+   background-image: url("/images/free.jpg"); /* Why dose'nt this work???? */
     background-size: cover;
     position: absolute;
     right: 10% ;
@@ -53,4 +53,8 @@ ul{
 li a {
     color: #f5f5f5;
   text-decoration: none;
+}
+
+.hidden{
+    display: none
 }
